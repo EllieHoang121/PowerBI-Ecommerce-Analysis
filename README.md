@@ -9,7 +9,7 @@ A breakdown of how this was achieved:
 
 Setup Process:
 
-Step 1: Gathering data from the source.
+- Step 1: Gathering data from the source.
 Step 2: Importing the data into PowerBI.
 Step 3: Doing data modeling.
 Step 4: Identifying necessary metrics and doing calculations.
